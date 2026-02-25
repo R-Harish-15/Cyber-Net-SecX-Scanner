@@ -1,3 +1,7 @@
+OS :
+----
+Kali linux or Linux OS
+
 Pre requirments:
 ----------------
 
