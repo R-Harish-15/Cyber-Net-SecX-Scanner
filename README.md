@@ -3,9 +3,15 @@ Pre requirments:
 
 step 1: Install all modules
 
-step 2: strat Metasploit rpc
+step 2: start Metasploit rpc 
 
-	    -msfrpcd -P 123 -S
+Note :
+------
+   ( 123 is my linux password 
+        - change the password according to yours
+		- also change the password filed in the metasploit RPC module )
+		
+	    msfrpcd -P 123 -S
 
 step 3: Open auto_pentest_scanner folder start execution
 
@@ -16,14 +22,14 @@ Virtual Environmment :
 
 step 1: install virtual environment
 
-	    -sudo apt install python3-venv -y
+	    sudo apt install python3-venv -y
 		
 step 2: create venv
 
-	    -python3 -m venv venv
+	    python3 -m venv venv
 step 3: activate venv
 
-	    -source venv/bin/activate
+	    source venv/bin/activate
 
 ######################################################################
 
@@ -32,21 +38,21 @@ Installation :
 
 step 1: install nmap
 
-    	-sudo apt install namp -y
+    	sudo apt install namp -y
 		
-	    -pip install python-nmap
+	    pip install python-nmap
 
 step 2: install modules
 
-	    -pip install matplotlib
+	    pip install matplotlib
 		
-	    -pip install reportLab
+	    pip install reportLab
 		
-	    -pip install requests
+	    pip install requests
 		
-	    -pip install pymatasploit3
+	    pip install pymatasploit3
 		
-	    -pip install pyfiglet
+	    pip install pyfiglet
   
 ######################################################################
 
