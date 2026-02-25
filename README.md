@@ -6,7 +6,7 @@ step 1: Install all modules
 step 2: start Metasploit rpc 
 
 Note :
-------
+
    ( 123 is my linux password 
         - change the password according to yours
 		- also change the password filed in the metasploit RPC module )
