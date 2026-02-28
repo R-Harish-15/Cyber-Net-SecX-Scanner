@@ -2,6 +2,9 @@
 <p align="center">
   <img src="auto_pentest_scanner/static/assets/logo_header.png">
 </p>
+<p align="center">
+  <img src="auto_pentest_scanner/static/assets/image.png">
+</p>
 
 
 
@@ -57,15 +60,8 @@ step 1: install nmap
 
 step 2: install modules
 
-	    pip install matplotlib
+	    pip install matplotlib reportLab requests pymetasploit3 pyfiglet
 		
-	    pip install reportLab
-		
-	    pip install requests
-		
-	    pip install pymatasploit3
-		
-	    pip install pyfiglet
   
 ##########################################################################
 
