@@ -75,3 +75,11 @@ step 2 : enter the ip address to be scanned
 step 3 : enter the ports to be scanned
 
 ##########################################################################
+
+
+<p align="center">
+  <img src="auto_pentest_scanner/static/assets/logo_cover.png">
+</p>
+
+
+© 2026 Velthrix Nova | Harish R . All Rights Reserved.
