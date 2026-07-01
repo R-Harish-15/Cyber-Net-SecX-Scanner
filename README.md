@@ -5,9 +5,9 @@
 <p align="center">
   <img src="auto_pentest_scanner/static/assets/image.png">
 </p>
-
-
-
+<p align="center">
+  <img src="auto_pentest_scanner/static/assets/cybernet.jpeg">
+</p>
 
 
 OS :
