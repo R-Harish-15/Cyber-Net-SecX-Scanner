@@ -76,6 +76,7 @@ step 3 : enter the ports to be scanned
 
 ##########################################################################
 
+##
 
 <p align="center">
   <img src="auto_pentest_scanner/static/assets/logo_cover.png">
